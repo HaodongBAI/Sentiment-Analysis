@@ -9,3 +9,5 @@ Future works: introduce synitical factor into analysis. attach one weight on eac
 
 OAS.py contains an analyzer for polarity of one sentence
 prprocess.rb is a preprocess program used in ruby, executed via os
+
+Folder /cpp contains a cpp-version of analyzer which is transfered from python code manually.
